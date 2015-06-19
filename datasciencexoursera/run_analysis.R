@@ -3,7 +3,7 @@
 # Author: davidebrown
 ###############################################################################
 
-
+    
 # Getting and Cleaning Data Course Project Script
 # Author:  David E Brown
 # Name run_analysis.R
